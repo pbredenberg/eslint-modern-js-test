@@ -1,0 +1,10 @@
+{
+
+   "extends": "@silvermine/eslint-config/node",
+
+   "parserOptions": {
+      "ecmaVersion": 2023,
+      "sourceType": "module"
+   }
+
+}
